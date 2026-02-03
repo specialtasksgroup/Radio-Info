@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Path: app/src/main/AndroidManifest.xml
+    Version: 1.1.0
+    Response: 7
+    Purpose: Defines the application structure and entry point for Radio Info.
+    Changes from last version: Updated package references to com.specialtasksgroup.radioinfo.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Radio Info"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        tools:targetApi="31">
+
+        <!--
+            Main Activity declaration.
+            The name points to our updated package location.
+        -->
+        <activity
+            android:name="com.specialtasksgroup.radioinfo.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

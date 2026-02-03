@@ -1,6 +1,0 @@
-com.specialtasksgroup.radioinfo.test.app-core-1.7.0-0 C:\Users\super\.gradle\caches\9.1.0\transforms\14c31c195fe1f42beee4bde73efcc94a\workspace\transformed\core-1.7.0\res
-com.specialtasksgroup.radioinfo.test.app-tracing-1.2.0-1 C:\Users\super\.gradle\caches\9.1.0\transforms\3bba783fac6d7f87b1c652c75f621407\workspace\transformed\tracing-1.2.0\res
-com.specialtasksgroup.radioinfo.test.app-updated_navigation_xml-2 C:\Users\super\Android_Projects\Radio_Info\app\build\generated\updated_navigation_xml\debugAndroidTest
-com.specialtasksgroup.radioinfo.test.app-packageDebugAndroidTestResources-3 C:\Users\super\Android_Projects\Radio_Info\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\merged.dir
-com.specialtasksgroup.radioinfo.test.app-packageDebugAndroidTestResources-4 C:\Users\super\Android_Projects\Radio_Info\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\stripped.dir
-com.specialtasksgroup.radioinfo.test.app-debugAndroidTest-5 C:\Users\super\Android_Projects\Radio_Info\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
